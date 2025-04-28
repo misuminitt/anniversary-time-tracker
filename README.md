@@ -1,6 +1,7 @@
 # Anniversary Time Tracker
 
 **Aniversary Time Tracker** is an application that counts the anniversary days, month, years, and seconds with my love.  
+This project is currently a work in progress. Please be patient as there are still many features and improvements that need to be added.
 
 ## ✨ Features
 - Real-time time tracking since a selected date.
