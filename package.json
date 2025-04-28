@@ -1,0 +1,13 @@
+{
+  "name": "aniversary-day",
+  "version": "1.0.0",
+  "description": "**Aniversary Time Tracker** is an application that counts the aniversary days, month, years, and seconds with my love.",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
