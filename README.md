@@ -1,6 +1,6 @@
-# Aniversary Time Tracker
+# Anniversary Time Tracker
 
-**Aniversary Time Tracker** is an application that counts the aniversary days, month, years, and seconds with my love.  
+**Aniversary Time Tracker** is an application that counts the anniversary days, month, years, and seconds with my love.  
 
 ## ✨ Features
 - Real-time time tracking since a selected date.
@@ -14,10 +14,10 @@
 ## 📦 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/misuminitt/aniversary-time-tracker.git
+git clone https://github.com/misuminitt/anniversary-time-tracker.git
 
 # Navigate into the project directory
-cd aniversary-time-tracker
+cd anniversary-time-tracker
 
 # Install dependencies
 npm install
